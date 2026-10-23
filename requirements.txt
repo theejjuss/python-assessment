@@ -1,0 +1,4 @@
+sqlite
+numpy
+pandas
+json
